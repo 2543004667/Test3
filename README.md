@@ -1,6 +1,5 @@
 # Test3
 UI组件
-activity_main
 ![](http://sowcar.com/t6/696/1554469134x2362277767.png)
 ![](http://sowcar.com/t6/696/1554469206x2890211702.png)
 ![](http://sowcar.com/t6/696/1554469222x2890191853.png)
@@ -11,7 +10,6 @@ activity_main
 ![](http://sowcar.com/t6/696/1554469843x2728278590.png)
 ![](http://sowcar.com/t6/696/1554469862x1822611245.png)
 ![](http://sowcar.com/t6/696/1554469876x2890149871.png)
-![]()
 ![](http://sowcar.com/t6/696/1554469890x2890174166.png)
 ![]()
 ![]()
